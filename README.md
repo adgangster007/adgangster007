@@ -1,26 +1,49 @@
-### awdawdfawd
+><div id="header" align="center">
+>    <h1 align="center">About Me</h1>
+>    <h3 align="left">Hi, I'm `Adrian`. I'm a 17-year-old programmer from Germany. I love coding and spend a lot of my time improving my skills and exploring new technologies. I also enjoy playing video games, which helps me relax and gives me new ideas for my projects. I'm not always the most persistent person, but I try my best to keep moving forward and make progress.</h3>
+></div>
 
-<h1 align="left">About Me</h1>
-<h3 align="center">Hi, I'm `Adrian`. I'm a 17-year-old programmer from Germany. I love coding and spend a lot of my time improving my skills and exploring new technologies. I also enjoy playing video games, which helps me relax and gives me new ideas for my projects. I'm not always the most persistent person, but I try my best to keep moving forward and make progress.</h3>
+> <div id="statistic">
+>  <h1 align="center">statistic</h1>
+>  <img src="https://streak-stats.demolab.com?user=adgangster007&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
+>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgangster007&layout=compact&theme=transparent" alt="Top Languages"/>
+>    <p> <img src="https://komarev.com/ghpvc/?username=adgangster007&label=Profile%20views&color=0e75b6&style=flat" alt="adgangster007" /> </p>
+></div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adgangster007&label=Profile%20views&color=0e75b6&style=flat" alt="adgangster007" /> </p>
+> <h1 align="center">Profile Section</h1>
+> 👩‍💻 I'm currently working on a Minecraft Server
+>
+> ## Languages
+> [![My Skills](https://skillicons.dev/icons?i=javascript,php,py,html,css&theme=dark)](https://skillicons.dev)
+>
+> ## Tools
+> [![My Skills](https://skillicons.dev/icons?i=docker,mongodb,mysql,sqlite&theme=dark)](https://skillicons.dev)
+>
+> ## Editors
+>[![My Skills](https://skillicons.dev/icons?i=phpstorm,webstorm,vscode&theme=dark)](https://skillicons.dev)
 
-<h1 align="left">Profile Section</h1>
-<h3 align="left">
-<p>
-👩‍💻 I'm currently working on a Minecraft Server | <a href="https://discord.gg/phKhFpcy">Discord Invite Link</a>
+><div id="badges" align="center">
+>  <a href="https://discord.gg/phKhFpcy">
+>    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
+>  </a>
+></div>
 
-📫 How to reach me
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.repository_owner }}
 
-Discord : adgangster007
-</p>
-<p>XBox : CheerfulVoice27</p>
-</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adgangster007&show_icons=true&locale=en&layout=compact" alt="adgangster007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adgangster007&show_icons=true&locale=en" alt="adgangster007" /></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
