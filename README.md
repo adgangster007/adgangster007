@@ -7,7 +7,7 @@
 >  <h1 align="center">statistic</h1>
 >  <img src="https://streak-stats.demolab.com?user=adgangster007&theme=white&fire=EB5454" alt="GitHub Streak"/>
 >  
-> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgangster007&layout=compact&theme=white" alt="Top Languages"/>
+>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adgangster007&layout=compact&theme=white" alt="Top Languages"/>
 >    <p> <img src="https://komarev.com/ghpvc/?username=adgangster007&label=Profile%20views&color=0e75b6&style=flat" alt="adgangster007" /> </p>
 >
 ></div>
